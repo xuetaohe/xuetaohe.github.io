@@ -3,4 +3,4 @@
 
 # hello, this is hotao's blog.
 
-[首页](index.html)
+[我的首页](https://github.com/xuetaohe/xuetaohe.github.io/blob/master/index.hmtl)
