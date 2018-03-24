@@ -18,7 +18,7 @@ var app = new Vue({
     data: {},
     methods: {
         "enroll": function () {
-            window.location="enroll/enroll.html"
+            window.location="pages/tenant/enroll.html"
         }
     },
     components:{
