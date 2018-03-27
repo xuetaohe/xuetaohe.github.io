@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2077c0-0adf-4b0b-a96f-e1935d099623" name="Default" comment="测试文件提交">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file1.md" afterPath="$PROJECT_DIR$/file1.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/file1.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="205">
-              <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="66" />
+              <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -170,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521896833975</updated>
       <workItem from="1521896835335" duration="2012000" />
-      <workItem from="1522133114120" duration="273000" />
+      <workItem from="1522133114120" duration="486000" />
     </task>
     <task id="LOCAL-00001" summary="测试文件提交">
       <created>1521897416102</created>
@@ -197,7 +196,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2285000" />
+    <option name="totallyTimeSpent" value="2498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -315,7 +314,7 @@
     <entry file="file://$PROJECT_DIR$/file1.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
-          <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="66" />
+          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
           <folding />
         </state>
       </provider>
